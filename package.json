@@ -43,6 +43,7 @@
     }
   },
   "scripts": {
+    "tauri": "tauri",
     "ng": "ng",
     "start": "npm run electron:build && cross-env NODE_ENV=DEV electron .",
     "startFrontend": "ng serve",
@@ -149,6 +150,7 @@
     "@ngx-translate/core": "^14.0.0",
     "@ngx-translate/http-loader": "^7.0.0",
     "@schematics/angular": "^13.3.4",
+    "@tauri-apps/cli": "^1.0.0-rc.13",
     "@types/electron-localshortcut": "^3.1.0",
     "@types/file-saver": "^2.0.5",
     "@types/hammerjs": "^2.0.39",
