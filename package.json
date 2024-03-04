@@ -177,7 +177,7 @@
     "electron-builder-notarize": "^1.4.0",
     "electron-notarize": "^1.2.1",
     "eslint": "^8.10.0",
-    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-jsdoc": "37.1.0",
     "eslint-plugin-prefer-arrow": "1.2.3",
